@@ -2,7 +2,7 @@
   "$kind": "Microsoft.AdaptiveDialog",
   "$designer": {
     "$designer": {
-      "name": "FoodBot",
+      "name": "Bot",
       "description": "F28ED Coursework- Food bot that recommends reciped according to the needs of the user",
       "id": "97OvoO"
     }
